@@ -1,0 +1,5 @@
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\PrimeiroProgramaCobol\PrimeiroProgramaCobol\bin\Debug\PrimeiroProgramaCobol.exe
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\PrimeiroProgramaCobol\PrimeiroProgramaCobol\bin\Debug\PrimeiroProgramaCobol.pdb
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\PrimeiroProgramaCobol\PrimeiroProgramaCobol\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\PrimeiroProgramaCobol\PrimeiroProgramaCobol\obj\Debug\PrimeiroProgramaCobol.exe
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\PrimeiroProgramaCobol\PrimeiroProgramaCobol\obj\Debug\PrimeiroProgramaCobol.pdb
