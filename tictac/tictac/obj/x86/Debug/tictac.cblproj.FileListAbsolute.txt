@@ -1,0 +1,2 @@
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\tictac\tictac\bin\x86\Debug\tictac.exe
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\tictac\tictac\obj\x86\Debug\tictac.exe
