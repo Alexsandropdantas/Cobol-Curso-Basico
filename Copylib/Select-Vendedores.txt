@@ -1,0 +1,7 @@
+       select vendedores assign to disk
+           organization is indexed
+           access mode is dynamic
+      * file status: 00 = operação realizada com sucesso, 35 ñ existe,
+           file status estado-vendedores
+           lock mode is manual
+           record key is chave-vendedores.

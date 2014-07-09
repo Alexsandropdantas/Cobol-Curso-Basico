@@ -1,0 +1,11 @@
+       fd vendedores
+       
+       label record is standard
+       
+       value of file-id "C:\CursoCobol\VendedorPrograma02\Vend.Arq".
+      
+       01 registro-vendedores.
+           02 chave-vendedores.
+               03 codigo-vendedores pic 9(3).
+           02 nome-vendedores       pic x(40).
+           02 filler                pic x(30).
