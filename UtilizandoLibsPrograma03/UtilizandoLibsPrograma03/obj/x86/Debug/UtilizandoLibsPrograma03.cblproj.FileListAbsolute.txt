@@ -1,0 +1,2 @@
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\UtilizandoLibsPrograma03\UtilizandoLibsPrograma03\bin\x86\Debug\UtilizandoLibsPrograma03.exe
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\UtilizandoLibsPrograma03\UtilizandoLibsPrograma03\obj\x86\Debug\UtilizandoLibsPrograma03.exe
