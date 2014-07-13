@@ -1,0 +1,2 @@
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\VendedorConsulta05\VendedorConsulta05\bin\x86\Debug\VendedorConsulta05.exe
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\VendedorConsulta05\VendedorConsulta05\obj\x86\Debug\VendedorConsulta05.exe
