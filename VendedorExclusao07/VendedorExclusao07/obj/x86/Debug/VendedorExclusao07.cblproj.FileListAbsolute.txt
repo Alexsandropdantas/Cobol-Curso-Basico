@@ -1,0 +1,2 @@
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\VendedorExclusao07\VendedorExclusao07\bin\x86\Debug\VendedorExclusao07.exe
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\VendedorExclusao07\VendedorExclusao07\obj\x86\Debug\VendedorExclusao07.exe
