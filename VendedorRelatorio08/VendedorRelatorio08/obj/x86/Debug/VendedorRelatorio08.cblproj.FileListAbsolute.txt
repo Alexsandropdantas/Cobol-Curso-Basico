@@ -1,0 +1,2 @@
+C:\Documents and Settings\Administrador\meus documentos\visual studio 2010\Projects\VendedorRelatorio08\VendedorRelatorio08\bin\x86\Debug\VendedorRelatorio08.exe
+C:\Documents and Settings\Administrador\meus documentos\visual studio 2010\Projects\VendedorRelatorio08\VendedorRelatorio08\obj\x86\Debug\VendedorRelatorio08.exe
