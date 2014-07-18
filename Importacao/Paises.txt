@@ -1,0 +1,3 @@
+       select importacao assign to ws-local
+       file status is estado-importacao
+       organization is line sequential.
