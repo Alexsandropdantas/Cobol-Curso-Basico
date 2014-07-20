@@ -1,0 +1,6 @@
+       fd paises
+          label record is standard
+          value of file-id "C:\CursoCobol\ImportacaoDados09\Paises.Arq".
+         01 registro-paises.
+             02 codigo-paises           pic 9(03).
+                       02 nome-paises   pic x(50).

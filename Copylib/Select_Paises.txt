@@ -1,0 +1,7 @@
+       select paises assign to disk
+                   organization is indexed
+                   access mode is dynamic
+                   file status estado-paises
+                   lock mode is manual
+                   alternate redord key is nome-paises
+                   record key is codigo-paises.
