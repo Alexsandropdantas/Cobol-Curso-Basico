@@ -1,0 +1,2 @@
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\ConfigTeste\ConfigTeste\bin\x86\Debug\ConfigTeste.exe
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\ConfigTeste\ConfigTeste\obj\x86\Debug\ConfigTeste.exe
