@@ -88,6 +88,7 @@
                accept resposta at 2380
                stop run
            end-if.
+		   
        mostra-opcoes section.
            display erase          at 0101
            display "01-Incluir"   at 0301
@@ -113,6 +114,7 @@
            else
                go mostra-opcoes
            end-if.
+		   
        mostra-tela-dados section.
            display tela-codigo
                    tela-dados1 tela-dados2 tela-dados3 tela-dados4
@@ -138,6 +140,7 @@
                            estado-clientes
            accept resposta at 2380
            go inclusao.
+		   
        inclusao-dados.
            accept tela-dados1
            if cidade-clientes = spaces
@@ -151,6 +154,7 @@
                go inclusao-dados
            end-if.
        inclusao-vendedor.
+	   
            accept tela-dados2
            move vendedor-clientes to codigo-vendedores
            read vendedores invalid key
@@ -160,6 +164,7 @@
            end-read
            
            display nome-vendedores at 0940.
+		   
        inclusao-cpf.
            accept tela-dados3
            perform calcula-cpf thru calcula-cpf-e
@@ -168,6 +173,7 @@
                accept resposta at 2380
                go inclusao-cpf
            end-if.
+		   
        inclusao-teste-data.
            accept tela-dados4
            
@@ -201,6 +207,7 @@
                accept resposta at 2380
                go inclusao-testa-data
            end-if
+		   
        inclusao-vendas.
            accept tela-dados5
                
@@ -254,6 +261,7 @@
            end-if
            
            go inclusao.
+		   
        consulta section.
            initialize registro-clientes
            initialize registro-vendedores
@@ -279,10 +287,12 @@
            read vendedores
            
            display nome-vendedores at 0940.
+		   
        mostra-final-consulta section.
            display "Enter, finaliza Consulta." at 2301
            accept resposta at 2380
            go consulta.
+		   
        alteracao section.
            initialize registro-clientes
            initialize registro-vendedores
@@ -313,6 +323,7 @@
            end-rewrite
            
            go alteracao.
+		   
        calcula-cpf section.
            move zeros to ws-cpf
            move cpf-clientes to separacpf
