@@ -19,6 +19,7 @@
        01 resposta                     pic x(01) value spaces.
        01 opcao                        pic 9(01) value zeros.
        
+      * 88 serve para validar os dados como um if else    
        01 ws-data.
           03 ws-dia                    pic 9(02).
           88 ws-dia-ok  value 01 02 03 04 05 06 07 08 09 10 11 12 13 14
