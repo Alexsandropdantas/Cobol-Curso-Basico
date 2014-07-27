@@ -50,6 +50,7 @@
            display "Finalizou o processamento..." at 1301
            display "Agora o programa vai ser encerrado..." at 1501
            goback.
+		   
        abre-arquivos section.
            open input vendedores
            if estado-vendedores not = "00"
@@ -83,6 +84,7 @@
            end-if.
        abre-arquivos-exit.
            exit.
+		   
        fecha-arquivos section.
            close vendedores
            close clientes
@@ -93,6 +95,7 @@
               accept resposta at 2370
               move 9 to temerro
            end-if.
+		   
        fecha-arquivos-exit.
            exit.
        gera-processamento section.
