@@ -1,6 +1,6 @@
 		select processamento assign to disk
-				   organization is indexed
-				   access mode is dynamic
-				   file status estado-processamento
-				   lock mode is manual
-				   record key is vendedor-processamento.
+		organization is indexed
+		access mode is dynamic
+		file status estado-processamento
+		lock mode is manual
+		record key is vendedor-processamento.
