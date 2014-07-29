@@ -1,6 +1,6 @@
 		fd processamento
 				   label record is standard
-				   value of file-id "C:\CursoCobol\Programa12\Proces.Arq".
+				   value of file-id "Proces.Arq".
 			   01 registro-processamento.
 				   02 vendedor-processamento       pic 9(03).
 				   02 clientes-processamento       pic 9(06).
