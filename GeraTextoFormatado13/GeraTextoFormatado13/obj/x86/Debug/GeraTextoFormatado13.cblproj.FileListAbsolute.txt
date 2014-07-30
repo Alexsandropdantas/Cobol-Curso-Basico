@@ -1,0 +1,2 @@
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\GeraTextoFormatado13\GeraTextoFormatado13\bin\x86\Debug\GeraTextoFormatado13.exe
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\GeraTextoFormatado13\GeraTextoFormatado13\obj\x86\Debug\GeraTextoFormatado13.exe
