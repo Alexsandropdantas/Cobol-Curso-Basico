@@ -1,0 +1,2 @@
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\Convercao14\Convercao14\bin\x86\Debug\Convercao14.exe
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\Convercao14\Convercao14\obj\x86\Debug\Convercao14.exe
