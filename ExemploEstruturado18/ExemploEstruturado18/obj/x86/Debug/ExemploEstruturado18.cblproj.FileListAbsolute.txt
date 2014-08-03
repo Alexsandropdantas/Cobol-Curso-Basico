@@ -1,0 +1,2 @@
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\ExemploEstruturado18\ExemploEstruturado18\bin\x86\Debug\ExemploEstruturado18.exe
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\ExemploEstruturado18\ExemploEstruturado18\obj\x86\Debug\ExemploEstruturado18.exe
