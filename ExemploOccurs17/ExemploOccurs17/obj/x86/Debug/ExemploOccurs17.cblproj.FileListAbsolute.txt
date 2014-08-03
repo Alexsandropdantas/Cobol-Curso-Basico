@@ -1,0 +1,2 @@
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\ExemploOccurs17\ExemploOccurs17\bin\x86\Debug\ExemploOccurs17.exe
+c:\documents and settings\administrador\meus documentos\visual studio 2010\Projects\ExemploOccurs17\ExemploOccurs17\obj\x86\Debug\ExemploOccurs17.exe
