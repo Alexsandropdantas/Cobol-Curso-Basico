@@ -15,6 +15,7 @@
        copy "C:\CursoCobol\Copylib\FD-Clientes.cpy".
        fd exportacao label record omitted.
        01 linha-exportacao            pic x(300).
+	   
        working-storage section.
        01 estado-vendedores       pic x(02) value spaces.
        01 estado-clientes         pic x(02) value spaces.
@@ -30,6 +31,7 @@
           03 ws-minuto    pic 9(02).
           03 ws-segundo   pic 9(02).
           03 ws-milesimo  pic 9(02).
+		  
       * Area de Exportacao --------------------------------------------*
        01 exporta-01.
          03 e01-hora      pic 99.
@@ -58,6 +60,7 @@
          03 e01-perpura   pic S9(03)v999.
          03 filler        pic x   value " ".
          03 e01-perform   pic ---9,999.
+		 
        procedure division.
        testa-arquivo.
            display erase at 0101
@@ -91,6 +94,7 @@
            move ws-minuto    to e01-minuto
            move ws-segundo   to e01-segundo
            move ws-milesimo  to e01-milesimo.
+		   
        le-arquivo.
            read clientes next at end
                 go encerra-arquivo
@@ -112,6 +116,7 @@
 
            write linha-exportacao from exporta-01
            go le-arquivo.
+		   
        encerra-arquivo.
            close vendedores clientes exportacao
            display "Arquivo Gerado..." at 1001
